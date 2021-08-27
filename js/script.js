@@ -1,5 +1,5 @@
 // const countdownDate = new Date("Mar 03, 2020").getTime();
-const countdownDate = new Date("Dec 25, 2020").getTime();
+const countdownDate = new Date("Dec 25, 2021").getTime();
 
 const x = setInterval(() => {
     const now = new Date().getTime();
